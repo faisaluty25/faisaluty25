@@ -1,7 +1,10 @@
 # Hi there 👋, I'm Faisal AlMufarrih  
 
 🎯 **Artificial Intelligence Specialist | Data Scientist in the Making**  
-📍 Saudi Arabia | 📧 faisaluty25@gmail.com | 📞 +966 558 754 619  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/faisal-almufarrih-b8090628b)
+-📍 Saudi Arabia 
+-📧 faisaluty25@gmail.com
+-📞 +966 558 754 619 
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/faisal-almufarrih-b8090628b)
 
 
 ---
