@@ -1,6 +1,4 @@
-# Hi there 👋, I'm Faisal AlMufarrih  
-
-🎯 **Artificial Intelligence Specialist | Data Scientist in the Making**  
+# Faisal AlMufarrih | Artificial Intelligence Specialist  
 
 - 📍 Saudi Arabia  
 - 📧 faisaluty25@gmail.com  
